@@ -1,4 +1,4 @@
-# Week2-Day1-TwoActivities
+#TwoActivities
 An Android messaging app with a main Activity and a second Activity.
 This application passes some data (a string) from the main Activity to the second using an Intent,
 and displays that data in the second Activity.
